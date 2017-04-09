@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Period Tracker</string>
+    <string name="select_profile">Select Profile</string>
+
+    <string-array name="Entry_types">
+        <item>Clear Day</item>
+        <item>Period Start</item>
+        <item>Period Ongoing</item>
+        <item>Period End</item>
+    </string-array>
+</resources>
